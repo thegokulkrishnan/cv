@@ -19,15 +19,17 @@ hr{border-style: none;
 
 }
 .b1{background-color: #FDEEDC;
-  
+
 
 }
-  h2{color: #E38B29;}
+  h2{color: #E38B29;
+  font-size: 50px;}
   #knowledge{color:black;}
   #fctitle1{padding: 0px 0px 0px 50px;}
   #fctitle2{padding: 0px 0px 0px 50px;}
 
-  h3{color: #E38B29;}
+  h3{color: #E38B29;
+  font-size: 40px;}
 div{background-color: #FFD8A9;}
 .body{background-color: #FDEEDC;}
 .body{padding: 0px 0px 0px 20px;}
